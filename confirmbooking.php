@@ -5,8 +5,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>HOLLYDAYDROP OFF - CONFIRM BOOKING</title>
 <link rel="stylesheet" href="css/style.css" />
-<link rel="stylesheet" href="css/style2.css" />
-<link rel="stylesheet" href="css/style3.css" />
 <script src="SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
 <script type="text/javascript">
 function getPrint()
