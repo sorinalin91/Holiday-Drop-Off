@@ -1,0 +1,118 @@
+﻿[8:44:09 PM] Niels Buckland: nielsbuckland1/admin
+[8:44:09 PM] Niels Buckland: then go to book online
+[8:44:49 PM] Niels Buckland: you have finn mieke and Noortje
+[8:45:05 PM] Niels Buckland: as the children that are recorded in nielsbuckland1 account
+[8:45:26 PM] Niels Buckland: when you click on the the + sign it opens up the camp dates
+[8:45:29 PM] Niels Buckland: open up all three
+[8:46:19 PM] Niels Buckland: if one child is booked on for the day its charged at 100%
+[8:46:27 PM] Niels Buckland: for example in this one £10
+[8:46:34 PM] Niels Buckland: £10 is 100%
+[8:46:54 PM] Niels Buckland: if a second child is booked on the same day it is 75%
+[8:47:13 PM] Niels Buckland: so if you click finn on monday
+[8:47:20 PM] Niels Buckland: and then mieke on monday as well
+[8:47:28 PM] Niels Buckland: it will be 10+7.50
+[8:47:52 PM] Niels Buckland: at noortje and it will be + £%
+[8:47:54 PM] Niels Buckland: £5
+[8:48:03 PM] Niels Buckland: make sense?
+[8:48:14 PM] Niels Buckland: so 100% - 75% - 50%
+[8:48:26 PM] Niels Buckland: BUT only if they are on the same day
+[8:49:06 PM] Niels Buckland: if Mieke then books Tuesday alone, she should get charged 100% on Tuesday
+[8:49:28 PM] Niels Buckland: u only get a discount if its on the same day
+[8:49:28 PM] Niels Buckland: as on my current site its just check fields
+[8:50:43 PM] Niels Buckland: and people are getting discounts when they aren't on the same days
+[8:51:25 PM] Niels Buckland: another issue i had with india
+[8:51:25 PM] Niels Buckland: is when i make a camp
+[8:51:33 PM] Niels Buckland: its not always Monday to Friday
+[8:51:51 PM] Niels Buckland: sometimes its Monday Wednesday Thursday etc
+[8:52:15 PM] Sorin-Alin Pavel: how you add a new camp?
+[8:52:11 PM] Niels Buckland: on india site?
+[8:52:15 PM] Sorin-Alin Pavel: yea
+[8:52:33 PM] Niels Buckland: on backend
+[8:52:38 PM] Niels Buckland: Camps title
+[8:52:43 PM] Niels Buckland: add new
+[8:53:04 PM] Niels Buckland: annoying that the date starts on 1969 lol
+[8:53:27 PM] Niels Buckland: So they have done it so you create a camp group
+[8:53:35 PM] Niels Buckland: they have done camp 1
+[8:53:38 PM] Niels Buckland: or camp 2
+[8:53:52 PM] Niels Buckland: but would be: Summer or October camp etc
+[8:53:52 PM] Niels Buckland: but would be: Summer or October camp etc
+[8:54:15 PM] Niels Buckland: So you make a camp group
+[8:54:22 PM] Niels Buckland: and then add the dates for that group
+[8:54:31 PM] Niels Buckland: I've changed the group name now
+[8:55:11 PM] Niels Buckland: Also i forgot to say
+[8:55:23 PM] Niels Buckland: Add a friend: on the booking system is always as 100%
+[8:55:35 PM] Niels Buckland: as they aren't siblings so don't get discount
+[8:56:16 PM] Sorin-Alin Pavel: what does it mean when you add a friend
+[8:56:13 PM] Niels Buckland: are you still on the book online page?
+[8:56:16 PM] Sorin-Alin Pavel: yep
+[8:56:21 PM] Sorin-Alin Pavel: on add a friend section
+[8:56:42 PM] Niels Buckland: the registered children are all in the same family
+[8:56:42 PM] Niels Buckland: so finn mike and north
+[8:56:47 PM] Niels Buckland: all brothers and sisters
+[8:56:58 PM] Niels Buckland: but if there friend from school wants to come
+[8:57:14 PM] Niels Buckland: they can book them in also
+[8:57:29 PM] Niels Buckland: that is changed always at 100%
+[8:57:39 PM] Niels Buckland: understand?
+[8:57:44 PM] Sorin-Alin Pavel: of course
+[8:57:39 PM] Niels Buckland: so if nielsbuckland1 wants his 3 children to go and Sorin to go as well
+[8:58:06 PM] Niels Buckland: you would be add a friend
+[8:58:11 PM] Sorin-Alin Pavel: yep, got it
+[8:58:25 PM] Sorin-Alin Pavel: but I don`t understand how you add your own childrens?
+[8:58:29 PM] Sorin-Alin Pavel: lemme see in my account
+[8:58:39 PM] Niels Buckland: yeah its there
+[8:58:42 PM] Niels Buckland: My children
+[8:58:42 PM] Niels Buckland: so when you register you have to fill out your details etc
+[8:59:25 PM] Niels Buckland: so the parents don't have to keep writing it
+[8:59:34 PM] Niels Buckland: its all saved in their account
+[9:00:32 PM] Sorin-Alin Pavel: yep
+[9:00:31 PM] Niels Buckland: if you think of better ideas that fine
+[9:00:32 PM] Sorin-Alin Pavel: but this happens only after they are redirected to paypal -> they pay->: and redirect back to my account on my booking section
+[9:00:34 PM] Sorin-Alin Pavel: tight?
+[9:00:41 PM] Niels Buckland: as its my site so open to options
+[9:00:49 PM] Niels Buckland: no
+[9:00:57 PM] Niels Buckland: when they first register
+[9:01:04 PM] Niels Buckland: they open account
+[9:01:10 PM] Niels Buckland: fill in MY DETAILS
+[9:01:15 PM] Niels Buckland: fill in My Children
+[9:01:21 PM] Niels Buckland: then book online
+[9:01:28 PM] Niels Buckland: the children will be listed
+[9:01:35 PM] Niels Buckland: so they pick the days
+[9:01:45 PM] Niels Buckland: then confirm booking
+[9:02:05 PM] Niels Buckland: (Shows what dates they have chosen
+[9:02:14 PM] Niels Buckland: then click pay now
+[9:02:25 PM] Niels Buckland: then leads them to Paypal to make payment
+[9:02:38 PM] Niels Buckland: then I smile and watch the money roll in
+[9:02:59 PM] Niels Buckland: on the book now page 
+[9:03:08 PM] Niels Buckland: press confirm booking and after that you see a short description of what you did and you can pay now.
+[9:04:52 PM] Niels Buckland: http://screencast.com/t/aPbAF8iWyexT
+[9:05:37 PM] Niels Buckland: they are the bugs that india have everywhere
+[9:05:48 PM] Sorin-Alin Pavel: yep, true
+[9:05:52 PM] Niels Buckland: same as the tab saying HOLLYDAY
+[9:06:34 PM] Sorin-Alin Pavel: also how can you get promotional codes?
+[9:06:48 PM] Niels Buckland: http://screencast.com/t/FuwMJ7sUOI
+[9:06:51 PM] Niels Buckland: top left
+[9:06:54 PM] Niels Buckland: on the tab
+[9:07:05 PM] Sorin-Alin Pavel: :))
+[9:07:13 PM] Sorin-Alin Pavel: you mean the title
+[9:07:38 PM] Niels Buckland: the promotional codes are set up on the admin site - under coupon
+[9:07:38 PM] Niels Buckland: yeah the title
+[9:07:41 PM] Niels Buckland: on the tab
+[9:06:34 PM] Sorin-Alin Pavel: how can I set a promotional code and how can a user get it?
+[9:07:41 PM] Niels Buckland: on the backend
+[9:08:37 PM] Niels Buckland: go to coupon
+[9:08:56 PM] Niels Buckland: clients will get it if i give it
+[9:09:07 PM] Niels Buckland: or advertise it
+[9:11:03 PM] Niels Buckland: ok, the booking system
+[9:11:16 PM] Niels Buckland: after they have booked
+[9:11:33 PM] Niels Buckland: i would like an email to be sent to me - telling me their booking
+[9:11:33 PM] Niels Buckland: i would like an email to be sent to me - telling me their booking
+[9:12:06 PM] Niels Buckland: and an email sent to the client
+[9:13:07 PM] Niels Buckland: telling them their booking with information etc and location details etc
+there is one main thing to talk about
+[9:18:24 PM] Niels Buckland: and one of the reasons why i wanted a new site
+[9:18:29 PM] Niels Buckland: and that is the registers
+[9:18:42 PM] Niels Buckland: on the day of the children sports camp
+[9:18:52 PM] Niels Buckland: i have registers on who has booked for that day
+[9:19:12 PM] Niels Buckland: currently i have to manually type it all in on an excel spreadsheet
+[9:19:20 PM] Niels Buckland: would be great if it can be done
+[9:19:42 PM] Niels Buckland: speak soon
